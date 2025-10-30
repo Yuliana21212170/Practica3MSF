@@ -1,10 +1,9 @@
-\[!\[Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Yuliana21212170/Practica3MSF)
 
-# Práctica: Sistema musculoesquelético
+# Práctica 3: Sistema musculoesquelético
 
 ## Información de la estudiante
-
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Jocelyn Yuliana Navarrete Avalos \[21212170]; l21212170@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -37,7 +36,7 @@ El término F0 representa la fuerza desarrollada por el elemento contráctil act
 
 La configuración paralela se realiza para considerar las restricciones mecánicas impuestas a los componentes del modelo. Si el resorte Cp se estira en una longitud incremental x(t), toda la combinación en serie de R y Cs también se extenderá en la misma longitud. Además, la suma de la fuerza transmitida a través de las dos ramas de la configuración paralela debe ser igual a F(t). Aunque la suma de las extensiones de Cs y R tendrá que ser igual a x(t), las contribuciones individuales de longitud de Cs y R no necesitan ser iguales. Por lo tanto, si se asume que C\_{s} se estira una longitud x₁(t), entonces la extensión en la combinación paralela de R y F0 será x(t)-x₁(t). La velocidad con la que se extiende el amortiguador representado por R se obtiene al derivar x(t) - x1(t) con respecto al tiempo, es decir, d\[x(t) - x1(t)] /dt.
 
-Palabras clave: ???; ???; ???; ???; ???
+Palabras clave: Controlador PID; Control; Caso; Tratamiento; Funcion de transferencia;
 
 ## Lista de archivos incluidos en el repositorio
 
@@ -50,9 +49,9 @@ Palabras clave: ???; ???; ???; ???; ???
 
 ## Referencias
 
-\[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
+[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
 
-\[2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018, Section 4, Page 93.
+[2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018, Section 4, Page 93.
 
-\[3] N. S. Nise, Control Systems Engineering, 8th ed. Hoboken, New Jersey, USA: John Wiley \& Sons, 2020.
+[3] N. S. Nise, Control Systems Engineering, 8th ed. Hoboken, New Jersey, USA: John Wiley \& Sons, 2020.
 
